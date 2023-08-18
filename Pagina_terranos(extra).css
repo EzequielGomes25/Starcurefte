@@ -1,0 +1,341 @@
+  @import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+*{
+    box-sizing: border-box;
+    font-family: "Exo 2",sans-serif;
+    color: #fff;
+}
+
+body {
+    background-image: url('https://rare-gallery.com/thumbs/4593937-starcraft-digital-art-video-games-render-terrans.jpg');
+    background-size: cover;
+}   
+
+h1 {
+    align-items: center;
+    color: #fff;
+    justify-content: center;
+    display: flex;
+    font-size: 4em;
+    letter-spacing: 5px;
+}
+
+h2{
+    align-items: center;
+    color: #fff;
+    justify-content: center;
+    display: flex;
+    letter-spacing: 5px;
+
+}
+
+h3{
+    margin-top: 40px;
+
+
+}
+
+h4{
+position: absolute;
+  left: 50%;
+  top: 60%;
+  transform: translate(-50%, -20%);
+}
+
+.apresentação_mecanicas{
+    top: 80%;
+}
+
+.apresentação_aereas{
+    top: 85%;
+}
+.Terranos_bio{
+    position: absolute;
+    left: 48%;
+    top: 85%;
+    transform: translate(-50%, -20%);
+}
+
+.Terranos_mech{
+    position: absolute;
+    left: 48%;
+    top: 110%;
+    transform: translate(-50%, -20%);
+}
+
+.Terranos_Aereos{
+    position: absolute;
+    left: 48%;
+    top: 110%;
+    transform: translate(-50%, -20%);
+}
+
+
+.details{
+    
+    background-color: turquoise;
+    padding: 2%;
+    border-bottom: 2px solid hsl(0, 64%, 9%);
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.details2{
+     margin-bottom: 20px;
+}
+
+.group {
+    margin-bottom: 20; /* Definimos inicialmente a margem como zero */
+  }
+  
+.group.with-distance {
+    margin-bottom: 60px; /* Definimos a margem somente após o clique */
+  }
+  
+
+
+.SCVS{
+    position: absolute;
+    left: 10%;
+    top: 120%;
+    transform: translate(-50%, -20%);
+}
+
+
+
+.textoSCVS{
+    width: 300px;
+    height: 300px;
+    Position: absolute;
+    left: 40%;
+    top: 160%;
+    transform: translate(-50%, -20%);
+}
+
+.textofuzileiro{
+    width: 300px;
+    height: 300px;
+    Position: absolute;
+    left: 40%;
+    top: 160%;
+    transform: translate(-50%, -20%);
+}
+
+.Imagem_VCE{
+    Position: absolute;
+    left: 70%;
+    top: 150%;
+    transform: translate(-50%, -20%);
+
+    
+
+}
+
+.img-content1{
+    Position: absolute;
+    left: 70%;
+    top: 150%;
+    transform: translate(-50%, -20%);
+}
+
+.img-content2{
+    Position: absolute;
+    left: 70%;
+    top: 150%;
+    transform: translate(-50%, -20%);
+}
+.img-content3{
+    Position: absolute;
+    left: 70%;
+    top: 150%;
+    transform: translate(-50%, -20%);
+}
+
+.img-content4{
+    Position: absolute;
+    left: 70%;
+    top: 150%;
+    transform: translate(-50%, -20%);
+}
+.img-content5{
+    Position: absolute;
+    left: 70%;
+    top: 140%;
+    transform: translate(-50%, -20%);
+}
+
+.img-content6{
+    Position: absolute;
+    left: 65%;
+    top: 160%;
+    transform: translate(-50%, -20%);
+}
+
+.img-content7{
+    Position: absolute;
+    left: 65%;
+    top: 160%;
+    transform: translate(-50%, -20%);
+}
+
+.img-content8{
+    Position: absolute;
+    left: 70%;
+    top: 150%;
+    transform: translate(-50%, -20%);
+}
+
+.img-content9{
+    Position: absolute;
+    left: 70%;
+    top: 155%;
+    transform: translate(-50%, -20%);
+}
+.img-content10{
+    Position: absolute;
+    left: 70%;
+    top: 155%;
+    transform: translate(-50%, -20%);
+}
+
+.img-content11{
+    Position: absolute;
+    left: 70%;
+    top: 155%;
+    transform: translate(-50%, -20%);
+}
+
+.img-content12{
+    Position: absolute;
+    left: 75%;
+    top: 160%;
+    transform: translate(-50%, -20%);
+}
+.img-content13{
+    Position: absolute;
+    left: 75%;
+    top: 160%;
+    transform: translate(-50%, -20%);
+}
+.img-content14{
+    Position: absolute;
+    left: 75%;
+    top: 165%;
+    transform: translate(-50%, -20%);
+}
+
+.img-content15{
+    Position: absolute;
+    left: 75%;
+    top: 165%;
+    transform: translate(-50%, -20%);
+}
+
+.Vudus{
+    position: absolute;
+    left: 10%;
+    top: 140%;
+    transform: translate(-50%, -20%);
+}
+
+.Endiabrados{
+    position: absolute;
+    left: 10%;
+    top: 140%;
+    transform: translate(-50%, -20%);
+}
+
+.Ciclones{
+    position: absolute;
+    left: 30%;
+    top: 140%;
+    transform: translate(-50%, -20%);
+}
+
+.Fuzileiros{
+    position: absolute;
+    left: 30%;
+    top: 120%;
+    transform: translate(-50%, -20%);
+}
+
+.Vikings{
+    position: absolute;
+    left: 25%;
+    top: 140%;
+    transform: translate(-50%, -20%);
+}
+
+
+.MinaViuva{
+    position: absolute;
+    left: 50%;
+    top: 140%;
+    transform: translate(-50%, -20%);
+}
+
+.Libertador{
+    position: absolute;
+    left: 40%;
+    top: 140%;
+    transform: translate(-50%, -20%);
+}
+
+.Demolidor{
+    position: absolute;
+    left: 50%;
+    top: 120%;
+    transform: translate(-50%, -20%);
+}
+
+.Tanque{
+    position: absolute;
+    left: 70%;
+    top: 140%;
+    transform: translate(-50%, -20%);
+}
+
+.Medivac{
+    position: absolute;
+    left: 55%;
+    top: 140%;
+    transform: translate(-50%, -20%);
+}
+.Exterminador{
+    position: absolute;
+    left: 70%;
+    top: 120%;
+    transform: translate(-50%, -20%);
+}
+
+.Thor{
+    position: absolute;
+    left: 90%;
+    top: 140%;
+    transform: translate(-50%, -20%);
+}
+
+.Corvo{
+    position: absolute;
+    left: 70%;
+    top: 140%;
+    transform: translate(-50%, -20%);
+}
+
+.Cruzador{
+    position: absolute;
+    left: 85%;
+    top: 140%;
+    transform: translate(-50%, -20%);
+}
+
+.Fantasmas{
+    position: absolute;
+    left: 90%;
+    top: 120%;
+    transform: translate(-50%, -20%);
+}
+
+
+  
